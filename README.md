@@ -20,6 +20,9 @@
 
 “This is an open standard that lets AI models talk to tools and data in a consistent way. It’s like a universal adapter so different AIs and apps can plug into each other safely.”
 
+https://github.com/tanrachess/secondbrain-ai/blob/8712a037d389157fd78a29c01f0a5f93bfb86c5f/mcp.md
+
+
 **Agentic AI**
 
 "It refers to AI systems that act like agents — they don’t just answer questions, they can take actions, make decisions, and use tools on your behalf to achieve a goal."
